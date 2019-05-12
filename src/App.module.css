@@ -1,0 +1,12 @@
+.App {
+  background-image: url("./assets/images/hci-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.content {
+  background-color: rgba(0, 0, 0, .7);
+  margin: auto;
+  padding: 40px;
+  height: 590px;
+}

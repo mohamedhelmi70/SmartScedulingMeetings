@@ -1,0 +1,17 @@
+.container {
+    width: 350px;
+    background-color: transparent;
+    margin-left: 200px; 
+}
+
+.container h3 {
+    font-size: 50px;
+    color: white;
+    margin-top: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container p {
+    font-size: 20px;
+    color: white;
+}

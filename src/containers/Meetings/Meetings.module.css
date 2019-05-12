@@ -1,0 +1,16 @@
+.container {
+    width: 800px;
+    margin-left: 200px;
+    margin-top: 60px;
+}
+
+.container .heading {
+    font-size: 28px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.container .bodySection {
+    background-color: 'transparent';
+    border: 'none';
+}

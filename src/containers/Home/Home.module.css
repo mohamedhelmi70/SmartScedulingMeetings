@@ -1,0 +1,11 @@
+.container {
+    width: 550px;
+    background-color: transparent;
+    margin-left: 200px; 
+}
+
+.container .lead {
+    color: white;
+    font-size: 25px;
+    font-weight: 300;
+}
